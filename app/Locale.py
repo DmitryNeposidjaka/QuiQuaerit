@@ -14,4 +14,4 @@ class Locale:
     def set_locale(locale):
         Locale.locale = locale
         file = open(Locale.file_path.format(Locale.locale))
-        Locale.data = json.load(file)
+        Locale.data = json.loads(file.read())

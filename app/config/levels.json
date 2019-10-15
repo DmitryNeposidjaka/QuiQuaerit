@@ -1,0 +1,17 @@
+{
+  "first": {
+    "title": "First",
+    "description": "Description",
+    "file": "FirstLevel"
+  },
+  "second": {
+    "title": "Second",
+    "description": "Description",
+    "file": "SecondLevel"
+  },
+  "third": {
+    "title": "third",
+    "description": "Description",
+    "file": "ThirdLevel"
+  }
+}
